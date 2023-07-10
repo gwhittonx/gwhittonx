@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @gwhittonx
-- 👀 I’m interested in bioinformatics and genomic data science
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @gwhittonx, I'm a bioinformatician with multi-modal interests spanning genomics, transcriptomics and image analysis! 
+
 
 <!---
 gwhittonx/gwhittonx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
